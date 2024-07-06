@@ -37,6 +37,6 @@ Search Wetaher UI:
 
 👋 Hello, I'm Vaibhav!
 
-I'm a passionate Third Year Student with a love for crafting digital experiences. My journey in the world of web development has been a thrilling exploration of creativity, problem-solving, and continuous learning. From front-end design to back-end development, I am dedicated to creating user-friendly and efficient web applications.
+I'm a passionate Final Year Student with a love for crafting digital experiences. My journey in the world of web development has been a thrilling exploration of creativity, problem-solving, and continuous learning. From front-end design to back-end development, I am dedicated to creating user-friendly and efficient web applications.
 
 
